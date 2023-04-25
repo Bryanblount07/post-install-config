@@ -45,7 +45,7 @@ Lets create a department. Be in the admin panel Go to agents tab & departments. 
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/OiR1cKS.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Now we're going to make some teams. Be in admin panel. Go to agents then teams. Click Add new teams & add "Level II Support". Go to the members tab and add yourself to that team.
