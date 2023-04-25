@@ -75,3 +75,11 @@ Now we're going to configure users. Go to Agent panel & add new user. Karen [or 
 Now configure a SLA. Go back to Admin panel, Manage & SLA. Create 1.) Sev-A (1hr, 24/7) 2.) Sev-B (4hrs, 24/7) & Sev-C (8hrs, Business hrs) 
 </p>
 <br />
+
+<p>
+<img src="https://imgur.com/youZrqV.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Now configure Help Topics. 1.) Business Critical Outage. 2.) Personal Computer Issues. 3.)Equipment Request 4.) Password Reset.
+</p>
+<br />
