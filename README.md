@@ -32,7 +32,7 @@ This tutorial outlines the post-installation configuration of the open-source he
 <img src="https://imgur.com/2WBAkxS.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Once you're logged into your osTicketing System, in your top right corner, you want to click on admin. Next click the agents tab, roles & [Add new role]. 
+Once you're logged into your osTicketing System, in your top right corner, you want to click on admin. Next click the agents tab, roles & [Add new role]. Name it [Supreme Admin]. Go to next to [permissions] this is where you can add them. Check all the ones under Tickets & task. Then click add role to confirm.
 </p>
 <br />
 
