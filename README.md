@@ -22,11 +22,11 @@ This tutorial outlines the post-installation configuration of the open-source he
 
 <h2>Post-Install Configuration Objectives</h2>
 
-- Also 1
-- Also 2
-- Also 3
-- Also 4
-- Also 5
+- Roles
+- Departments
+- Creating Tickets
+- Teams
+- SLA Managment
 
 <h2>Configuration Steps</h2>
 
