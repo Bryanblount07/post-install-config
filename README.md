@@ -61,7 +61,7 @@ Next we're going to create agents. Make sure in the admin panel, agents & Add ne
 <br />
 
 <p>
-<img src="https://imgur.com/hWhKy1y.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/fOecFgH.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Now we're going to configure users. Go to Agent panel & add new user. Karen [or whoever]. Create email & Name.  
