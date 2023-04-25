@@ -53,7 +53,7 @@ Now we're going to make some teams. Be in admin panel. Go to agents then teams. 
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/hWhKy1y.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Next we're going to create agents. Make sure in the admin panel, agents & Add new. Add Jan doe & John Doe. Make up a fake email, make user name [jane.doe]. Hit set password, uncheck [Send agent password reset through email]. Set password how you want it. Then click set. Go to access tab and select system admin & make her a supreme admin. Go to team and add them to level II support. Then click create. 
