@@ -8,8 +8,6 @@ This tutorial outlines the post-installation configuration of the open-source he
 
 <h2>Video Demonstration</h2>
 
-- ### [YouTube: How To Configure osTicket, post-installation](https://www.youtube.com)
-
 <h2>Environments and Technologies Used</h2>
 
 - Microsoft Azure (Virtual Machines/Compute)
@@ -28,7 +26,7 @@ This tutorial outlines the post-installation configuration of the open-source he
 - Teams
 - SLA Managment
 
-<h2>Configuration Steps</h2>
+<h2>Configuration Steps as a Admin & Agent</h2>
 
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
